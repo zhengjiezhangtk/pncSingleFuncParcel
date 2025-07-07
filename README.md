@@ -8,6 +8,9 @@ Citing our paper will be greatly appreciated if you use these codes.
 
 # Intro
 Two individual parcellation methods without group atlas for prior are implemented in this package:
+
 Step2:
+
 1）Regularized non-negative matrix factorization
+
 2）Multi-session Hierarchical Bayesian Model (MS-HBM)
